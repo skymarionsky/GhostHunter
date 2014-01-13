@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:4e7cebf8461b86cfee82d08f5d4ee648:d3f68c17e3c62a54decdf4456014c7e2:6c45f23d1211d37495dbafcfd7f348f6$ -->
+<TextureAtlas imagePath="player.png">
+    <SubTexture name="effects" x="116" y="2" width="10" height="10" frameX="-26" frameY="-26" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="explosion0" x="66" y="98" width="60" height="64"/>
+    <SubTexture name="explosion1" x="2" y="132" width="60" height="62"/>
+    <SubTexture name="explosion2" x="2" y="68" width="62" height="62"/>
+    <SubTexture name="gameover" x="68" y="2" width="46" height="46"/>
+    <SubTexture name="ghost0" x="66" y="198" width="28" height="28"/>
+    <SubTexture name="ghost1" x="64" y="164" width="28" height="30"/>
+    <SubTexture name="grave" x="68" y="50" width="32" height="46"/>
+    <SubTexture name="life" x="94" y="164" width="30" height="32"/>
+    <SubTexture name="player0" x="34" y="196" width="30" height="48" frameX="0" frameY="0" frameWidth="32" frameHeight="48"/>
+    <SubTexture name="player1" x="2" y="196" width="30" height="48" frameX="-2" frameY="0" frameWidth="32" frameHeight="48"/>
+    <SubTexture name="tiles" x="2" y="2" width="64" height="64"/>
+</TextureAtlas>
